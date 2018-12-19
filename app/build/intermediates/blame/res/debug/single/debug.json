@@ -1,0 +1,1206 @@
+[
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_x.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_u.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\u.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hi.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\hi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jv.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\jv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_y.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\y.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zn.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\zn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jh.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\jh.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_za.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\za.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ee.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\ee.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_t.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_n.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\n.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_k.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\k.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_v.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\v.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_z.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\z.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zm.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\zm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_i.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ze.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\ze.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_d.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_x.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_l.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\l.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_lo.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\lo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_h.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\h.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pp.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\pp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ju.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\ju.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vv.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\vv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_u.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\u.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\91e1f4136dad1f31456c12e74276e9da\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zn.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\zn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_o.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_kp.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\kp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\91e1f4136dad1f31456c12e74276e9da\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\bb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_oo.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\oo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_t.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_w.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\w.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_h.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\h.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ju.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\ju.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_i.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kv.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\kv.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_k.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\k.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ii.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\ii.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jv.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\jv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\vb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dc.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\dc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kv.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\kv.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\zm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_v.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\v.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_y.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\y.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\h.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vx.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\vx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ki.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\ki.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nn.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\nn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ll.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\ll.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\zb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_v.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\v.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_k.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\k.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_w.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\w.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_b.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jh.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\jh.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_xa.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\xa.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nn.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\nn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gh.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\gh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zc.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\zc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\zb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vx.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\vx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_y.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\y.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_c.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\c.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\n.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gh.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\gh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tt.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\tt.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\91e1f4136dad1f31456c12e74276e9da\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zc.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\zc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_p.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\p.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\vb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_zn.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\zn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_e.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hh.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\hh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_v.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\v.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\raw_trueluv.mp3.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\raw\\trueluv.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kp.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\kp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ff.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\ff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jv.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\jv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ff.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\ff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dd.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\dd.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vx.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\vx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_h.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\h.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xx.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\xx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ki.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\ki.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_j.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\j.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_d.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zd.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\zd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_k.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\k.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_zm.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\zm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_yy.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\yy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_n.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\n.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cc.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vv.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\vv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ll.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\ll.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_va.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\va.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_oo.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\oo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ju.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\ju.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_img.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tt.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\tt.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_vikz_gallery.xml.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\layout\\vikz_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_e.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zd.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\zd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_o.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nn.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\nn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_p.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\p.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_u.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\u.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ss.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\ss.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jh.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\jh.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_s.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_b.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ee.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\ee.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_zb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\zb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_uu.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\uu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_c.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\c.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ll.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\ll.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hi.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\hi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cc.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_t.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vk.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\vk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_j.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\j.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_i.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pp.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\pp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kp.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\kp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\bb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\91e1f4136dad1f31456c12e74276e9da\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_m.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\m.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_u.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\u.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_z.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\z.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ii.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\ii.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_o.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_z.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\z.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lo.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\lo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zm.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\zm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gh.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\gh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_l.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\l.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ll.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\ll.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kv.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\kv.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tt.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\tt.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_r.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\bb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_va.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\va.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vks.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\vks.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yy.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\yy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_zc.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\zc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xa.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\xa.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ju.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\ju.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_m.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\m.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\c.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_oo.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\oo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gh.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\gh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_a.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ki.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\ki.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ss.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\ss.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dc.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\dc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ii.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\ii.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\vb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hh.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\hh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\91e1f4136dad1f31456c12e74276e9da\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jv.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\jv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\vb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ze.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\ze.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_xx.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\xx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lo.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\lo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_xx.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\xx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_s.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_i.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_j.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\j.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_n.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\n.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_l.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\l.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kp.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\kp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_yy.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\yy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zn.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\zn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_q.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\q.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_t.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_uu.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\uu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_z.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\z.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_o.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_c.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\c.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cc.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ze.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\ze.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_b.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ee.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\ee.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_m.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\m.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_q.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\q.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_p.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\p.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_za.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\za.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dd.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\dd.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vv.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\vv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ff.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\ff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jh.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\jh.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_e.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_zd.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\zd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uu.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\uu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dd.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\dd.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_w.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\w.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_uu.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\uu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_s.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\91e1f4136dad1f31456c12e74276e9da\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hi.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\hi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zd.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\zd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dc.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\dc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_q.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\q.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ss.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\ss.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_a.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pp.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\pp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ss.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\ss.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\zb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\91e1f4136dad1f31456c12e74276e9da\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hi.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\hi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dc.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\dc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_nn.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\nn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\menu_vikz_gallery.xml.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\menu\\vikz_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_q.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\q.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_za.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\za.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_oo.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\oo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_r.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_d.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cc.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_kv.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\kv.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_va.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\va.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_y.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\y.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hh.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\hh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ee.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\ee.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_e.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_xa.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\xa.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vx.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\vx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_l.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\l.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_a.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ff.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\ff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\91e1f4136dad1f31456c12e74276e9da\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ki.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\ki.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vv.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\vv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tt.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\tt.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_za.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\za.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_x.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dd.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\dd.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_m.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\m.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zc.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\zc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hh.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\hh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ze.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\ze.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lo.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\lo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_j.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\j.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_xx.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\xx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_xa.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\xa.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_r.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_r.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_x.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\91e1f4136dad1f31456c12e74276e9da\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\raw_davido.mp3.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\raw\\davido.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_va.png.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\va.png"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ii.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\ii.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pp.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\pp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_w.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\w.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_p.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-mdpi\\p.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bb.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-xhdpi\\bb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-hdpi\\img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_yy.jpg.flat",
+        "source": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\src\\main\\res\\drawable-ldpi\\yy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Joe\\StudioProjects\\Junny_imageviewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Joe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\31e304946ed6791b6ca4d9ee8634ff2f\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

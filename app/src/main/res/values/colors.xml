@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgColor">#000000</color>
+     <color name="white">#adf028</color>
+     <color name="Peru">#c6670b</color>
+     <color name="Olive">#686867</color>
+     <color name="Black">#000000</color>
+     <color name="purple">#800080</color>    
+     <color name="blue">#57579b</color>
+</resources>

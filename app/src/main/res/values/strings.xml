@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vikky</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="img1">img1</string>
+    <string name="vikky">AKINPELU VICTORIA OLUWAJUNILO</string>
+    <string name="mesg">My Love, my Queen, my Angel, i loved you, still do, always will. Happy Valentine!</string>
+    <string name="dot">from Dotun</string>
+    <string name="back">Previous</string>
+    <string name="nxt">"    Next    "</string>
+
+</resources>
